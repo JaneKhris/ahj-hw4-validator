@@ -1,4 +1,4 @@
-name: Move element
+name: Credit Card Validator
 
 on: [push, pull_request]
 
